@@ -1,0 +1,40 @@
+{
+  "en": {
+    "archive": "Archive",
+    "collections": "Collections",
+    "timeline": "Timeline",
+    "about": "About",
+    "enter": "Enter the archive",
+    "featured": "Featured works",
+    "search": "Search title, ID, year or keyword",
+    "allCollections": "All collections",
+    "allCategories": "All categories",
+    "records": "records",
+    "related": "Related works",
+    "back": "Back to archive",
+    "hero": "History, architecture, civilization and memory.",
+    "intro": "The official digital museum and research archive of Mohammad Mahdiar Farsi.",
+    "mission": "Preserving the complete artistic journey of Mohammad Mahdiar Farsi while documenting the evolution of his artistic, historical, architectural and intellectual vision.",
+    "language": "فارسی",
+    "noResults": "No matching records."
+  },
+  "fa": {
+    "archive": "آرشیو",
+    "collections": "مجموعه‌ها",
+    "timeline": "خط زمانی",
+    "about": "درباره",
+    "enter": "ورود به آرشیو",
+    "featured": "آثار منتخب",
+    "search": "جست‌وجو بر اساس عنوان، شناسه، سال یا کلیدواژه",
+    "allCollections": "همه مجموعه‌ها",
+    "allCategories": "همه دسته‌ها",
+    "records": "رکورد",
+    "related": "آثار مرتبط",
+    "back": "بازگشت به آرشیو",
+    "hero": "تاریخ، معماری، تمدن و حافظه",
+    "intro": "موزه دیجیتال و آرشیو پژوهشی رسمی محمد مهدیار فارسی.",
+    "mission": "حفظ کامل مسیر هنری محمد مهدیار فارسی و مستندسازی تحول نگاه هنری، تاریخی، معماری و فکری او.",
+    "language": "English",
+    "noResults": "هیچ رکوردی پیدا نشد."
+  }
+}

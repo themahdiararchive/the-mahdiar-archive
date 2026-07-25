@@ -1,0 +1,2 @@
+import type {Locale} from "@/lib/types"; import {dict} from "@/lib/content";
+export default function Footer({locale}:{locale:Locale}){const d=dict(locale);return <footer className="mt-24 border-t rule py-14"><div className="shell grid gap-10 md:grid-cols-[2fr_1fr]"><div><div className="serif text-2xl">The Mahdiar Archive</div><p className="mt-3 max-w-2xl muted">{d.mission}</p></div><div><b>Archive status</b><p className="mt-3 text-sm muted">Living catalogue. Records are updated as originals are located, scanned and verified.</p></div></div></footer>}

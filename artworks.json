@@ -1,0 +1,210 @@
+[
+  {
+    "id": "MH-0001",
+    "title": {
+      "en": "Mountain Fortress",
+      "fa": "دژ کوهستانی"
+    },
+    "year": "2017",
+    "medium": {
+      "en": "Marker and ink on paper",
+      "fa": "ماژیک و جوهر روی کاغذ"
+    },
+    "dimensions": "Unknown",
+    "collection": "origins",
+    "category": "architecture",
+    "location": "Iran",
+    "status": "Original location unconfirmed",
+    "image": "/artworks/MH-0001.jpeg",
+    "featured": true,
+    "keywords": [
+      "fortress",
+      "mountain",
+      "history",
+      "architecture"
+    ],
+    "story": {
+      "en": "An early architectural study of a fortress rising above a mountain path, revealing a sustained interest in fortified places and historical geography.",
+      "fa": "مطالعه‌ای اولیه از دژی بر فراز مسیر کوهستانی که علاقه مهدیار به استحکامات و جغرافیای تاریخی را نشان می‌دهد."
+    },
+    "notes": {
+      "en": "Dimensions, inspiration and current location should be verified.",
+      "fa": "ابعاد، منبع الهام و محل فعلی اثر باید تأیید شود."
+    },
+    "nft": "Not minted",
+    "print": "Not available"
+  },
+  {
+    "id": "MH-0002",
+    "title": {
+      "en": "Historical Soldier Study",
+      "fa": "مطالعه سرباز تاریخی"
+    },
+    "year": "Undated",
+    "medium": {
+      "en": "Colored marker and ink on paper",
+      "fa": "ماژیک رنگی و جوهر روی کاغذ"
+    },
+    "dimensions": "Unknown",
+    "collection": "historical-studies",
+    "category": "figures",
+    "location": "Iran",
+    "status": "Original location unconfirmed",
+    "image": "/artworks/MH-0002.jpeg",
+    "featured": false,
+    "keywords": [
+      "soldier",
+      "armor",
+      "military history"
+    ],
+    "story": {
+      "en": "A figure study combining costume, armor and military symbolism as an entry point into historical identity and material culture.",
+      "fa": "مطالعه‌ای از پوشاک، زره و نمادهای نظامی به‌عنوان دریچه‌ای به هویت تاریخی و فرهنگ مادی."
+    },
+    "notes": {
+      "en": "The precise historical reference requires further research.",
+      "fa": "مرجع تاریخی دقیق نیازمند پژوهش بیشتر است."
+    },
+    "nft": "Not minted",
+    "print": "Not available"
+  },
+  {
+    "id": "MH-0003",
+    "title": {
+      "en": "Imperial Emblem Study",
+      "fa": "مطالعه نشان امپراتوری"
+    },
+    "year": "Undated",
+    "medium": {
+      "en": "Blue ink on paper",
+      "fa": "جوهر آبی روی کاغذ"
+    },
+    "dimensions": "Unknown",
+    "collection": "historical-studies",
+    "category": "symbols",
+    "location": "Iran",
+    "status": "Original location unconfirmed",
+    "image": "/artworks/MH-0003.jpeg",
+    "featured": true,
+    "keywords": [
+      "emblem",
+      "heraldry",
+      "weapons",
+      "identity"
+    ],
+    "story": {
+      "en": "A heraldic composition of shields, blades and standards reflecting the visual language of authority, conflict and legitimacy.",
+      "fa": "ترکیبی نشان‌شناسانه از سپرها، تیغه‌ها و پرچم‌ها که زبان بصری قدرت، نبرد و مشروعیت را بازتاب می‌دهد."
+    },
+    "notes": {
+      "en": "A possible visual key for a future series on power and civilization.",
+      "fa": "می‌تواند کلید بصری مجموعه‌ای درباره قدرت و تمدن باشد."
+    },
+    "nft": "Not minted",
+    "print": "Not available"
+  },
+  {
+    "id": "MH-0004",
+    "title": {
+      "en": "Medieval City Panorama",
+      "fa": "چشم‌انداز شهر قرون وسطایی"
+    },
+    "year": "Undated",
+    "medium": {
+      "en": "Black ink on paper",
+      "fa": "جوهر مشکی روی کاغذ"
+    },
+    "dimensions": "Approx. A4",
+    "collection": "architecture",
+    "category": "cityscapes",
+    "location": "Iran",
+    "status": "Original location unconfirmed",
+    "image": "/artworks/MH-0004.jpeg",
+    "featured": true,
+    "keywords": [
+      "medieval city",
+      "urban form",
+      "architecture"
+    ],
+    "story": {
+      "en": "An imagined historical city assembled from towers, churches, roofs and masonry, moving between urban study and narrative scene.",
+      "fa": "شهری تاریخی و خیالی متشکل از برج‌ها، کلیساها، بام‌ها و سنگ‌چینی؛ اثری میان مطالعه شهری و روایت تصویری."
+    },
+    "notes": {
+      "en": "The open lower field is part of the original composition.",
+      "fa": "فضای باز پایین صفحه بخشی از ترکیب اصلی اثر است."
+    },
+    "nft": "Not minted",
+    "print": "Candidate"
+  },
+  {
+    "id": "MH-0005",
+    "title": {
+      "en": "Harbour City Study",
+      "fa": "مطالعه شهر بندری"
+    },
+    "year": "Undated",
+    "medium": {
+      "en": "Blue ballpoint pen on paper",
+      "fa": "خودکار آبی روی کاغذ"
+    },
+    "dimensions": "Approx. A4",
+    "collection": "architecture",
+    "category": "cityscapes",
+    "location": "Iran",
+    "status": "Original location unconfirmed",
+    "image": "/artworks/MH-0005.jpeg",
+    "featured": true,
+    "keywords": [
+      "harbour",
+      "bridge",
+      "city",
+      "blue ink"
+    ],
+    "story": {
+      "en": "A compact harbour city built from rooflines, domes, towers and bridges, demonstrating spatial control and disciplined hatching.",
+      "fa": "شهری بندری با بام‌ها، گنبدها، برج‌ها و پل‌ها که کنترل فضایی و هاشور منظم را نشان می‌دهد."
+    },
+    "notes": {
+      "en": "The exact city or source image should be verified.",
+      "fa": "شهر یا تصویر مرجع دقیق باید تأیید شود."
+    },
+    "nft": "Not minted",
+    "print": "Candidate"
+  },
+  {
+    "id": "MH-0006",
+    "title": {
+      "en": "Architectural Tower Study",
+      "fa": "مطالعه برج معماری"
+    },
+    "year": "Undated",
+    "medium": {
+      "en": "Black ink on paper",
+      "fa": "جوهر مشکی روی کاغذ"
+    },
+    "dimensions": "Unknown",
+    "collection": "architecture",
+    "category": "architectural-details",
+    "location": "Iran",
+    "status": "Original location unconfirmed",
+    "image": "/artworks/MH-0006.jpeg",
+    "featured": false,
+    "keywords": [
+      "tower",
+      "roof",
+      "stone",
+      "detail"
+    ],
+    "story": {
+      "en": "A focused study of towers, roofs, masonry and façade rhythm, breaking complex historical buildings into visual systems.",
+      "fa": "مطالعه‌ای از برج‌ها، بام‌ها، سنگ‌چینی و ریتم نما که ساختمان‌های تاریخی پیچیده را به عناصر بصری تجزیه می‌کند."
+    },
+    "notes": {
+      "en": "Related to the broader medieval-city studies.",
+      "fa": "با مجموعه گسترده‌تر شهرهای قرون وسطایی مرتبط است."
+    },
+    "nft": "Not minted",
+    "print": "Not available"
+  }
+]
