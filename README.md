@@ -44,3 +44,7 @@ The secure production CMS layer should provide authenticated editors, draft/revi
 
 ## NFT safety
 NFT fields currently record status only. Never store wallet seed phrases, private keys or signing credentials in this repository.
+
+## Cloudflare Pages V2.1 fix
+
+The sitemap and robots files are served as static files from `public/` so Next.js static export does not attempt to generate metadata routes during build.
