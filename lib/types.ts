@@ -1,1 +1,3 @@
-export type Locale="en"|"fa"; export type Artwork={id:string;title:Record<Locale,string>;year:string;medium:Record<Locale,string>;dimensions:string;collection:string;category:string;location:string;status:string;image:string;featured:boolean;keywords:string[];story:Record<Locale,string>;notes:Record<Locale,string>;nft:string;print:string};
+export type Locale="en"|"fa";
+export type NftRecord={status:"not-minted"|"minted"|"listed"|"sold";chain:string;standard:string;edition:string;price:number|null;currency:string;contractAddress:string|null;tokenId:string|null;marketplaceUrl:string|null;metadataUrl:string|null;royaltyPercent:number};
+export type Artwork={id:string;title:Record<Locale,string>;year:string;medium:Record<Locale,string>;dimensions:string;collection:string;category:string;location:string;status:string;image:string;featured:boolean;keywords:string[];story:Record<Locale,string>;notes:Record<Locale,string>;nft:NftRecord;print:string};

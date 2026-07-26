@@ -31,7 +31,19 @@
       "en": "Dimensions, inspiration and current location should be verified.",
       "fa": "ابعاد، منبع الهام و محل فعلی اثر باید تأیید شود."
     },
-    "nft": "Not minted",
+    "nft": {
+      "status": "not-minted",
+      "chain": "Base",
+      "standard": "ERC-721",
+      "edition": "1/1",
+      "price": null,
+      "currency": "ETH",
+      "contractAddress": null,
+      "tokenId": null,
+      "marketplaceUrl": null,
+      "metadataUrl": null,
+      "royaltyPercent": 10
+    },
     "print": "Not available"
   },
   {
@@ -65,7 +77,19 @@
       "en": "The precise historical reference requires further research.",
       "fa": "مرجع تاریخی دقیق نیازمند پژوهش بیشتر است."
     },
-    "nft": "Not minted",
+    "nft": {
+      "status": "not-minted",
+      "chain": "Base",
+      "standard": "ERC-721",
+      "edition": "1/1",
+      "price": null,
+      "currency": "ETH",
+      "contractAddress": null,
+      "tokenId": null,
+      "marketplaceUrl": null,
+      "metadataUrl": null,
+      "royaltyPercent": 10
+    },
     "print": "Not available"
   },
   {
@@ -100,7 +124,19 @@
       "en": "A possible visual key for a future series on power and civilization.",
       "fa": "می‌تواند کلید بصری مجموعه‌ای درباره قدرت و تمدن باشد."
     },
-    "nft": "Not minted",
+    "nft": {
+      "status": "not-minted",
+      "chain": "Base",
+      "standard": "ERC-721",
+      "edition": "1/1",
+      "price": null,
+      "currency": "ETH",
+      "contractAddress": null,
+      "tokenId": null,
+      "marketplaceUrl": null,
+      "metadataUrl": null,
+      "royaltyPercent": 10
+    },
     "print": "Not available"
   },
   {
@@ -134,7 +170,19 @@
       "en": "The open lower field is part of the original composition.",
       "fa": "فضای باز پایین صفحه بخشی از ترکیب اصلی اثر است."
     },
-    "nft": "Not minted",
+    "nft": {
+      "status": "not-minted",
+      "chain": "Base",
+      "standard": "ERC-721",
+      "edition": "1/1",
+      "price": null,
+      "currency": "ETH",
+      "contractAddress": null,
+      "tokenId": null,
+      "marketplaceUrl": null,
+      "metadataUrl": null,
+      "royaltyPercent": 10
+    },
     "print": "Candidate"
   },
   {
@@ -169,7 +217,19 @@
       "en": "The exact city or source image should be verified.",
       "fa": "شهر یا تصویر مرجع دقیق باید تأیید شود."
     },
-    "nft": "Not minted",
+    "nft": {
+      "status": "not-minted",
+      "chain": "Base",
+      "standard": "ERC-721",
+      "edition": "1/1",
+      "price": null,
+      "currency": "ETH",
+      "contractAddress": null,
+      "tokenId": null,
+      "marketplaceUrl": null,
+      "metadataUrl": null,
+      "royaltyPercent": 10
+    },
     "print": "Candidate"
   },
   {
@@ -204,7 +264,19 @@
       "en": "Related to the broader medieval-city studies.",
       "fa": "با مجموعه گسترده‌تر شهرهای قرون وسطایی مرتبط است."
     },
-    "nft": "Not minted",
+    "nft": {
+      "status": "not-minted",
+      "chain": "Base",
+      "standard": "ERC-721",
+      "edition": "1/1",
+      "price": null,
+      "currency": "ETH",
+      "contractAddress": null,
+      "tokenId": null,
+      "marketplaceUrl": null,
+      "metadataUrl": null,
+      "royaltyPercent": 10
+    },
     "print": "Not available"
   }
 ]

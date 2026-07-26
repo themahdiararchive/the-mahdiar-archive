@@ -48,3 +48,8 @@ NFT fields currently record status only. Never store wallet seed phrases, privat
 ## Cloudflare Pages V2.1 fix
 
 The sitemap and robots files are served as static files from `public/` so Next.js static export does not attempt to generate metadata routes during build.
+
+
+## NFT commerce integration (V3 foundation)
+
+The site now includes a bilingual NFT collection page and an official NFT record on each artwork page. Sales use verified non-custodial marketplace URLs. To list an artwork, update its `nft` object in `content/artworks.json`: set `status` to `listed`, then add chain, contract address, token ID, price, currency, metadata URL and marketplace URL. Never commit seed phrases, private keys, signing credentials or wallet backups.

@@ -16,7 +16,23 @@
     "intro": "The official digital museum and research archive of Mohammad Mahdiar Farsi.",
     "mission": "Preserving the complete artistic journey of Mohammad Mahdiar Farsi while documenting the evolution of his artistic, historical, architectural and intellectual vision.",
     "language": "فارسی",
-    "noResults": "No matching records."
+    "noResults": "No matching records.",
+    "nft": "NFT",
+    "nftCollection": "NFT Collection",
+    "nftIntro": "Verified digital editions connected to the official archive.",
+    "buyNft": "Buy NFT",
+    "viewListing": "View verified listing",
+    "notMinted": "Not minted",
+    "listed": "Listed",
+    "minted": "Minted",
+    "sold": "Sold",
+    "chain": "Blockchain",
+    "edition": "Edition",
+    "royalty": "Artist royalty",
+    "contract": "Contract",
+    "tokenId": "Token ID",
+    "marketplaceNotice": "Purchases are completed through the verified marketplace listing. The archive never asks for seed phrases or private keys.",
+    "comingSoon": "Not currently offered for sale."
   },
   "fa": {
     "archive": "آرشیو",
@@ -35,6 +51,22 @@
     "intro": "موزه دیجیتال و آرشیو پژوهشی رسمی محمد مهدیار فارسی.",
     "mission": "حفظ کامل مسیر هنری محمد مهدیار فارسی و مستندسازی تحول نگاه هنری، تاریخی، معماری و فکری او.",
     "language": "English",
-    "noResults": "هیچ رکوردی پیدا نشد."
+    "noResults": "هیچ رکوردی پیدا نشد.",
+    "nft": "NFT",
+    "nftCollection": "مجموعه NFT",
+    "nftIntro": "نسخه‌های دیجیتال تأییدشده و متصل به آرشیو رسمی.",
+    "buyNft": "خرید NFT",
+    "viewListing": "مشاهده آگهی تأییدشده",
+    "notMinted": "هنوز مینت نشده",
+    "listed": "برای فروش عرضه شده",
+    "minted": "مینت شده",
+    "sold": "فروخته شده",
+    "chain": "بلاکچین",
+    "edition": "نسخه",
+    "royalty": "سهم هنرمند",
+    "contract": "قرارداد",
+    "tokenId": "شناسه توکن",
+    "marketplaceNotice": "خرید از طریق آگهی تأییدشده در بازار NFT انجام می‌شود. آرشیو هرگز عبارت بازیابی یا کلید خصوصی درخواست نمی‌کند.",
+    "comingSoon": "در حال حاضر برای فروش عرضه نشده است."
   }
 }
